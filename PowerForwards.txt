@@ -1,0 +1,132 @@
+Giannis Antetokounmpo
+67.65199999999999
+11200.0
+
+Anthony Davis
+66.95000000000002
+9800.0
+
+John Collins
+58.52010000000001
+8500.0
+
+Zion Williamson
+58.3912
+7600.0
+
+Domantas Sabonis
+52.242999999999995
+8700.0
+
+Davis Bertans
+47.55800000000001
+5600.0
+
+Jae Crowder
+43.962199999999996
+4800.0
+
+Rui Hachimura
+42.88239999999999
+5300.0
+
+Carmelo Anthony
+41.29679999999999
+5600.0
+
+Maxi Kleber
+40.800799999999995
+5200.0
+
+Julius Randle
+38.714200000000005
+7600.0
+
+Aaron Gordon
+35.33
+8600.0
+
+James Johnson
+35.10849999999999
+4900.0
+
+Trey Lyles
+34.916799999999995
+5100.0
+
+Juancho Hernangomez
+34.76349999999999
+5500.0
+
+Kelly Olynyk
+34.687
+3900.0
+
+Nicolo Melli
+30.296
+3600.0
+
+Taurean Prince
+27.025000000000006
+4400.0
+
+Moritz Wagner
+27.024
+3900.0
+
+Lauri Markkanen
+24.614000000000004
+4500.0
+
+Thaddeus Young
+22.205
+5600.0
+
+Markieff Morris
+19.092
+3100.0
+
+Cheick Diallo
+17.360200000000006
+3200.0
+
+Bobby Portis
+11.358399999999996
+4500.0
+
+Wilson Chandler
+8.819999999999993
+3100.0
+
+Marvin Williams
+8.2896
+3000.0
+
+Abdel Nader
+6.927999999999997
+3000.0
+
+Gary Clark
+0.8490000000000002
+3000.0
+
+Ersan Ilyasova
+0.29999999999999716
+3000.0
+
+Anthony Tolliver
+-0.7510000000000012
+3000.0
+
+Wenyen Gabriel
+-0.8788
+3000.0
+
+Mike Muscala
+-10.7776
+3000.0
+
+Semi Ojeleye
+-13.154499999999999
+3700.0
+

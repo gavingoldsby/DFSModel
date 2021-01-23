@@ -1,0 +1,152 @@
+Bradley Beal
+70.85839999999999
+10400.0
+
+Jimmy Butler
+62.19300000000001
+7900.0
+
+DeMar DeRozan
+59.09
+7200.0
+
+Cam Reddish
+50.425
+4100.0
+
+Kevin Huerter
+47.2936
+5600.0
+
+Caris LeVert
+43.813
+7000.0
+
+Seth Curry
+40.5064
+5700.0
+
+Duncan Robinson
+39.932
+4700.0
+
+Terrence Ross
+38.13759999999999
+5700.0
+
+Troy Brown
+36.9452
+3500.0
+
+Malik Beasley
+36.174499999999995
+5900.0
+
+Josh Okogie
+32.921800000000005
+4100.0
+
+Jarrett Culver
+32.3609
+3500.0
+
+Shai Gilgeous-Alexander
+31.599999999999994
+7000.0
+
+Dillon Brooks
+27.257999999999996
+5100.0
+
+Joe Harris
+26.710800000000006
+5000.0
+
+Jerome Robinson
+26.64
+3200.0
+
+Gary Trent
+26.433999999999997
+4300.0
+
+Lonnie Walker
+25.96
+3300.0
+
+E'Twaun Moore
+24.675199999999997
+3000.0
+
+Danny Green
+23.637500000000003
+3400.0
+
+Mikal Bridges
+22.638400000000004
+5200.0
+
+Andre Iguodala
+21.311500000000002
+3000.0
+
+Kentavious Caldwell-Pope
+20.987800000000007
+3700.0
+
+Joe Ingles
+20.875699999999995
+4300.0
+
+Justin Holiday
+17.35499999999999
+3400.0
+
+Wesley Matthews
+14.872
+3400.0
+
+Pat Connaughton
+13.372
+3000.0
+
+John Konchar
+12.781599999999997
+3000.0
+
+Denzel Valentine
+5.023399999999995
+3900.0
+
+Reggie Bullock
+2.7487999999999957
+3000.0
+
+Luguentz Dort
+1.328000000000003
+3000.0
+
+Wayne Ellington
+-0.1512000000000029
+3000.0
+
+Sterling Brown
+-4.426000000000002
+3000.0
+
+Hamidou Diallo
+-10.364000000000004
+3000.0
+
+Marko Guduric
+-12.694399999999998
+3000.0
+
+Edmond Sumner
+-15.832799999999999
+3000.0
+
+Romeo Langford
+-17.48
+3000.0
+

@@ -1,0 +1,152 @@
+Kristaps Porzingis
+75.816
+9300.0
+
+Hassan Whiteside
+63.45920000000001
+9100.0
+
+Nikola Vucevic
+54.61680000000001
+8900.0
+
+Bam Adebayo
+54.44
+8200.0
+
+Derrick Favors
+47.2148
+5400.0
+
+Thomas Bryant
+41.8005
+4000.0
+
+Dewayne Dedmon
+41.513000000000005
+3400.0
+
+Aron Baynes
+40.61
+3000.0
+
+Naz Reid
+40.22
+5800.0
+
+Rudy Gobert
+36.5552
+7800.0
+
+Jonas Valanciunas
+35.349999999999994
+7400.0
+
+Myles Turner
+35.185
+5200.0
+
+Mitchell Robinson
+34.75280000000001
+5700.0
+
+Jarrett Allen
+32.977000000000004
+4800.0
+
+Willie Cauley-Stein
+31.296800000000005
+3100.0
+
+Bruno Fernando
+30.483199999999997
+3000.0
+
+Brook Lopez
+29.47919999999999
+4700.0
+
+DeAndre Jordan
+27.006
+5000.0
+
+Wendell Carter
+26.629999999999995
+5000.0
+
+Steven Adams
+23.2688
+6100.0
+
+Mo Bamba
+22.351600000000005
+3500.0
+
+JaVale McGee
+21.474400000000003
+3600.0
+
+Daniel Theis
+21.214
+5200.0
+
+Dwight Howard
+20.694500000000005
+4100.0
+
+Gorgui Dieng
+19.0985
+5000.0
+
+Caleb Swanigan
+14.7256
+3000.0
+
+Enes Kanter
+13.841999999999999
+3900.0
+
+Anzejs Pasecniks
+13.700000000000003
+3000.0
+
+Nerlens Noel
+12.6704
+3500.0
+
+Tony Bradley
+12.555999999999997
+3000.0
+
+Drew Eubanks
+11.6506
+3000.0
+
+Damian Jones
+8.504299999999997
+3000.0
+
+Jaxson Hayes
+6.7272
+3000.0
+
+Taj Gibson
+6.144500000000001
+3300.0
+
+Robert Williams
+5.280000000000001
+3100.0
+
+Robin Lopez
+2.3324
+3000.0
+
+Daniel Gafford
+0.7039999999999935
+3400.0
+
+Goga Bitadze
+-13.559999999999999
+3000.0
+

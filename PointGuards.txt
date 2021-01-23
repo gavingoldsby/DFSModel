@@ -1,0 +1,261 @@
+10
+91
+58
+78
+78
+70
+44
+28
+93
+65
+46
+
+
+Luka Doncic
+81.06960000000001
+11300.0
+
+LeBron James
+71.28399999999999
+10900.0
+
+Damian Lillard
+65.01280000000003
+9700.0
+
+CJ McCollum
+60.696
+8200.0
+
+Jrue Holiday
+56.61999999999999
+8100.0
+
+Goran Dragic
+53.926000000000016
+5900.0
+
+Lonzo Ball
+53.88000000000001
+7800.0
+
+D'Angelo Russell
+51.1656
+8800.0
+
+Ricky Rubio
+49.39699999999999
+7100.0
+
+Jeff Teague
+49.2616
+3300.0
+
+Devin Booker
+47.81639999999999
+8400.0
+
+Dejounte Murray
+45.75500000000001
+5800.0
+
+Kendrick Nunn
+45.7234
+5100.0
+
+Donovan Mitchell
+41.66000000000001
+7700.0
+
+Patty Mills
+40.05199999999999
+3400.0
+
+Spencer Dinwiddie
+40.026399999999995
+7300.0
+
+Ja Morant
+38.1362
+6900.0
+
+Derrick White
+37.4695
+4300.0
+
+Marcus Smart
+36.80499999999999
+6500.0
+
+Jordan McLaughlin
+36.248000000000005
+3800.0
+
+Delon Wright
+35.729600000000005
+4200.0
+
+Markelle Fultz
+33.715199999999996
+5400.0
+
+Bryn Forbes
+33.272000000000006
+3400.0
+
+Shabazz Napier
+33.05
+5100.0
+
+D.J. Augustin
+32.509600000000006
+3000.0
+
+Eric Bledsoe
+31.582399999999993
+5700.0
+
+Chris Paul
+30.934300000000007
+7500.0
+
+Coby White
+29.179000000000002
+6300.0
+
+Dennis Schroder
+27.425200000000004
+5800.0
+
+Michael Carter-Williams
+25.494
+3300.0
+
+Anfernee Simons
+24.972
+3000.0
+
+George Hill
+24.483599999999996
+3700.0
+
+Brandon Goodwin
+24.293999999999997
+3000.0
+
+Tomas Satoransky
+24.1896
+5600.0
+
+Donte DiVincenzo
+23.076800000000006
+4800.0
+
+De'Anthony Melton
+22.952799999999996
+4400.0
+
+Kemba Walker
+22.616
+7600.0
+
+RJ Barrett
+22.233999999999995
+5500.0
+
+Elfrid Payton
+21.802000000000007
+6400.0
+
+J.J. Barea
+18.8853
+3700.0
+
+Mike Conley
+18.28
+5400.0
+
+Rajon Rondo
+18.116799999999998
+3500.0
+
+Tyus Jones
+17.733000000000004
+4200.0
+
+Avery Bradley
+17.012499999999996
+3600.0
+
+Jordan Clarkson
+16.959999999999994
+4400.0
+
+T.J. McConnell
+15.225200000000001
+4000.0
+
+Aaron Holiday
+14.748000000000005
+4000.0
+
+Alex Caruso
+10.866
+3000.0
+
+Frank Ntilikina
+9.762999999999998
+3300.0
+
+Shaquille Harrison
+9.7453
+3500.0
+
+Jevon Carter
+9.718600000000002
+3000.0
+
+Chris Chiozza
+9.387999999999998
+3000.0
+
+Gary Payton
+8.879999999999999
+3000.0
+
+Frank Jackson
+8.740000000000002
+3000.0
+
+Brad Wanamaker
+8.356000000000002
+3600.0
+
+Elie Okobo
+6.676400000000001
+3100.0
+
+Ryan Arcidiacono
+5.4239999999999995
+3100.0
+
+Victor Oladipo
+3.6455999999999946
+5500.0
+
+Emmanuel Mudiay
+-2.740000000000002
+3000.0
+
+Theo Pinson
+-8.8112
+3000.0
+
+Javonte Green
+-12.52
+3200.0
+
+Ty Jerome
+-12.717200000000002
+3000.0
+
